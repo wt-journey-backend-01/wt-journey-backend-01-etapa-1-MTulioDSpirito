@@ -1,0 +1,4 @@
+app.java
+/node_modules
+/.env
+/dist
